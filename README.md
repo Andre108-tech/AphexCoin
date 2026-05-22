@@ -1,0 +1,2 @@
+# AphexCoin
+Trabalho de criptomoeda
